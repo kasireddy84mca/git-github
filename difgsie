@@ -1,0 +1,37 @@
+[33mcommit c0f8e7fdf0e6b11d7ee115c0e64df268982a8ea2[m[33m ([m[1;36mHEAD -> [m[1;32msit[m[33m)[m
+Author: venkat <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 20:16:50 2020 +0530
+
+    revert commit changes now
+
+[33mcommit 669eae31b9b938fba572f5af7235c1ae98c4712c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: venkat <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 19:26:59 2020 +0530
+
+    commit the changes dec branch
+
+[33mcommit c10467cb458e372d1218843ebe0f25d9ea1135d4[m
+Author: kasireddy84mca <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 10:37:57 2020 +0530
+
+    Create testfile
+    
+    test
+
+[33mcommit 586f7ae18f2329f2ef31b95eeeaecec3a2fa2524[m
+Author: venkat <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 10:34:05 2020 +0530
+
+    modified the sample file
+
+[33mcommit 4d1ab4feae70cf77993abbba09d6b619689b6f9e[m
+Author: venkat <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 10:25:19 2020 +0530
+
+    this my github commit
+
+[33mcommit 7ad42dbe4d560cee053bc16b82750b7f8d56b03d[m
+Author: kasireddy84mca <kasireddy84mca@gmail.com>
+Date:   Thu Jul 16 10:00:49 2020 +0530
+
+    Initial commit
