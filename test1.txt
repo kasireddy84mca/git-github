@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello this testing for revert commit...
 
 revert test....testing.....aaaa
+=======
+hello this testing for revert commit...
+>>>>>>> 767c7b286cacd381b9c7296e1fdaf279d0ba1612
